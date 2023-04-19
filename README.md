@@ -1,5 +1,9 @@
 # Reachability.swift
 
+# Updates:  
+Added a minimum requirements for iOS 10.0, as XCode requires
+
+# Old docs:
 Reachability.swift is a replacement for Apple's Reachability sample, re-written in Swift with closures.
 
 It is compatible with **iOS** (8.0 - 12.0), **OSX** (10.9 - 10.14) and **tvOS** (9.0 - 12.0)
